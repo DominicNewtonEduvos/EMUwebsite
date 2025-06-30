@@ -1,0 +1,154 @@
+2025-06-19 18:20:24 - Starting normal page load
+2025-06-19 18:20:24 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:20:24 - Cart ID retrieved: NULL
+2025-06-19 18:20:24 - Displaying empty cart message
+2025-06-19 18:20:30 - Starting AJAX request handling
+2025-06-19 18:20:30 - Received input: Array
+(
+    [action] => add
+    [productId] => 4
+)
+
+2025-06-19 18:20:30 - User ID from session: user_6854628576ecb
+2025-06-19 18:20:30 - Cart query result: 
+2025-06-19 18:20:30 - Creating new cart with ID: cart_7925ecb2
+2025-06-19 18:20:30 - Adding product ID: 4
+2025-06-19 18:20:30 - Product added to cartlist
+2025-06-19 18:20:30 - Updated cart count: 1
+2025-06-19 18:20:34 - Starting normal page load
+2025-06-19 18:20:34 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:20:34 - Cart ID retrieved: NULL
+2025-06-19 18:20:34 - Displaying empty cart message
+2025-06-19 18:24:55 - Starting normal page load
+2025-06-19 18:24:55 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:24:55 - Cart ID retrieved: NULL
+2025-06-19 18:24:55 - Displaying empty cart message
+2025-06-19 18:24:55 - Starting AJAX request handling
+2025-06-19 18:24:55 - Received input: Array
+(
+    [action] => add
+    [productId] => 3
+)
+
+2025-06-19 18:24:55 - User ID from session: user_6854628576ecb
+2025-06-19 18:24:55 - Cart query result: 
+2025-06-19 18:24:55 - Creating new cart with ID: cart_77d6a164
+2025-06-19 18:24:55 - Adding product ID: 3
+2025-06-19 18:24:55 - Product added to cartlist
+2025-06-19 18:24:55 - Updated cart count: 1
+2025-06-19 18:24:55 - Starting normal page load
+2025-06-19 18:24:55 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:24:55 - Cart ID retrieved: NULL
+2025-06-19 18:24:55 - Displaying empty cart message
+2025-06-19 18:24:57 - Starting normal page load
+2025-06-19 18:24:57 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:24:57 - Cart ID retrieved: NULL
+2025-06-19 18:24:57 - Displaying empty cart message
+2025-06-19 18:24:57 - Starting AJAX request handling
+2025-06-19 18:24:57 - Received input: Array
+(
+    [action] => add
+    [productId] => 3
+)
+
+2025-06-19 18:24:57 - User ID from session: user_6854628576ecb
+2025-06-19 18:24:57 - Cart query result: 
+2025-06-19 18:24:57 - Creating new cart with ID: cart_f3217594
+2025-06-19 18:24:57 - Adding product ID: 3
+2025-06-19 18:24:57 - Product added to cartlist
+2025-06-19 18:24:57 - Updated cart count: 1
+2025-06-19 18:24:57 - Starting normal page load
+2025-06-19 18:24:57 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:24:57 - Cart ID retrieved: NULL
+2025-06-19 18:24:57 - Displaying empty cart message
+2025-06-19 18:25:04 - Starting AJAX request handling
+2025-06-19 18:25:04 - Received input: Array
+(
+    [action] => add
+    [productId] => prod_68547bb81b
+)
+
+2025-06-19 18:25:04 - User ID from session: user_6854628576ecb
+2025-06-19 18:25:04 - Cart query result: 
+2025-06-19 18:25:04 - Creating new cart with ID: cart_2c93f9fe
+2025-06-19 18:25:04 - Adding product ID: prod_68547bb81b
+2025-06-19 18:25:04 - Product added to cartlist
+2025-06-19 18:25:04 - Updated cart count: 1
+2025-06-19 18:25:08 - Starting normal page load
+2025-06-19 18:25:08 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:25:08 - Cart ID retrieved: NULL
+2025-06-19 18:25:08 - Displaying empty cart message
+2025-06-19 18:25:08 - Starting AJAX request handling
+2025-06-19 18:25:08 - Received input: Array
+(
+    [action] => add
+    [productId] => 3
+)
+
+2025-06-19 18:25:08 - User ID from session: user_6854628576ecb
+2025-06-19 18:25:08 - Cart query result: 
+2025-06-19 18:25:08 - Creating new cart with ID: cart_f2976f32
+2025-06-19 18:25:08 - Adding product ID: 3
+2025-06-19 18:25:08 - Product added to cartlist
+2025-06-19 18:25:08 - Updated cart count: 1
+2025-06-19 18:25:09 - Starting normal page load
+2025-06-19 18:25:09 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:25:09 - Cart ID retrieved: NULL
+2025-06-19 18:25:09 - Displaying empty cart message
+2025-06-19 18:38:29 - Starting normal page load
+2025-06-19 18:38:29 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:38:29 - Cart ID retrieved: NULL
+2025-06-19 18:38:29 - Displaying empty cart message
+2025-06-19 18:38:36 - Starting AJAX request handling
+2025-06-19 18:38:36 - Received input: Array
+(
+    [action] => add
+    [productId] => 3
+)
+
+2025-06-19 18:38:36 - User ID from session: user_6854628576ecb
+2025-06-19 18:38:36 - Cart query result: 
+2025-06-19 18:38:36 - Creating new cart with ID: cart_6f3fb14e
+2025-06-19 18:38:36 - Adding product ID: 3
+2025-06-19 18:38:36 - Product added to cartlist
+2025-06-19 18:38:36 - Updated cart count: 1
+2025-06-19 18:38:40 - Starting normal page load
+2025-06-19 18:38:40 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:38:40 - Cart ID retrieved: NULL
+2025-06-19 18:38:40 - Displaying empty cart message
+2025-06-19 18:41:42 - Starting normal page load
+2025-06-19 18:41:42 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:41:42 - Cart ID retrieved: NULL
+2025-06-19 18:41:42 - Displaying empty cart message
+2025-06-19 18:41:44 - Starting normal page load
+2025-06-19 18:41:44 - Displaying cart for user ID: user_6854628576ecb
+2025-06-19 18:41:44 - Cart ID retrieved: NULL
+2025-06-19 18:41:44 - Displaying empty cart message
+2025-06-20 01:44:04 - Starting normal page load
+2025-06-20 01:44:04 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:44:04 - Cart ID retrieved: NULL
+2025-06-20 01:44:04 - Displaying empty cart message
+2025-06-20 01:44:09 - Starting normal page load
+2025-06-20 01:44:09 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:44:09 - Cart ID retrieved: NULL
+2025-06-20 01:44:09 - Displaying empty cart message
+2025-06-20 01:48:49 - Starting normal page load
+2025-06-20 01:48:49 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:48:49 - Cart ID retrieved: NULL
+2025-06-20 01:48:49 - Displaying empty cart message
+2025-06-20 01:50:39 - Starting normal page load
+2025-06-20 01:50:39 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:50:39 - Cart ID retrieved: NULL
+2025-06-20 01:50:39 - Displaying empty cart message
+2025-06-20 01:50:44 - Starting normal page load
+2025-06-20 01:50:44 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:50:44 - Cart ID retrieved: NULL
+2025-06-20 01:50:44 - Displaying empty cart message
+2025-06-20 01:56:25 - Starting normal page load
+2025-06-20 01:56:25 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:56:25 - Cart ID retrieved: NULL
+2025-06-20 01:56:25 - Displaying empty cart message
+2025-06-20 01:56:40 - Starting normal page load
+2025-06-20 01:56:40 - Displaying cart for user ID: user_6854628576ecb
+2025-06-20 01:56:40 - Cart ID retrieved: NULL
+2025-06-20 01:56:40 - Displaying empty cart message
